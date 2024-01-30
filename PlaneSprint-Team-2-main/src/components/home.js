@@ -30,7 +30,7 @@ function Home() {
                 <h1 className="text-4xl font-bold leading-normal text-center md:flex-col md:flex md:space-y-10 md:text-6xl md:w-3/4 md:text-start">
                     Your favourite food, delivered to you
                 <p className="font-medium text-xs text-center md:text-start mt-2 md:mt-4 md:text-base">
-                    Food, Drinks, Snacks and Instant food to order from.
+                    Food, Drinks, Snacks and Instant food to order from. Hello Nithin
                 </p>
                 </h1>
                 <NavLink to="/signup"><button className="px-8 py-4 font-bold text-md bg-[#F48A00] text-white rounded-full">
