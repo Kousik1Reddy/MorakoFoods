@@ -18,7 +18,7 @@ function TopRated() {
                     <div className="right py-4 pl-4 pr-8 w-full space-y-4">
                         <div className='flex justify-between'>
                             <div className='left'>
-                            <h1 className='text-lg font-semibold'>Chicken Biriyani | Mini</h1>
+                            <h1 className='text-lg font-semibold'>CHICKEN  Chicken Biriyani | Mini</h1>
                             <p className='text-sm text-gray-400'> Description here...</p>
                             </div>
                             <div className="right flex items-center space-x-2">
